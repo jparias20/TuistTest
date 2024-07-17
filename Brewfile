@@ -1,0 +1,7 @@
+tap 'tuist/tuist'
+brew 'swiftlint'
+brew 'tuist'
+brew 'ruby'
+brew 'yq'
+brew 'jq'
+brew 'carthage'
